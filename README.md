@@ -1,0 +1,2 @@
+# repository_transaction_framework
+利用代理和反射编写的简单持久层和事务框架(requireNew)
