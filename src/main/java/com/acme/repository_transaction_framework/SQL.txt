@@ -1,0 +1,18 @@
+CREATE TABLE `student` (
+  `id` int(11) NOT NULL,
+  `no` varchar(10) DEFAULT NULL,
+  `name` varchar(10) DEFAULT NULL,
+  `age` int(11) DEFAULT NULL,
+  `gender` int(11) DEFAULT NULL,
+  PRIMARY KEY (`id`)
+) ENGINE=InnoDB DEFAULT CHARSET=latin1
+
+
+/*
+-- Query: SELECT * FROM test.student
+LIMIT 0, 1000
+
+-- Date: 2022-05-23 18:51
+*/
+INSERT INTO `` (`id`,`no`,`name`,`age`,`gender`) VALUES (1,'00001','8e9d3017-c',28,1);
+INSERT INTO `` (`id`,`no`,`name`,`age`,`gender`) VALUES (2,'00002','a6413d89-e',99,0);
